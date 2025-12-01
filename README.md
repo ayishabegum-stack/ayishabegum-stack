@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+🌩️ 1. Cloud & Network Learner Who Builds to Understand<br>“I don’t just study cloud and networking — I recreate real setups, break them, fix them, and understand how systems behave in real life.”<br><br>🛰️ 2. Passionate About Scalable Cloud Systems<br>“I enjoy working with AWS/Azure services, setting up VPCs, IAM, EC2, S3, and learning how distributed systems communicate securely.”<br><br>🔌 3. Networking Enthusiast<br>“I love exploring how networks actually work — routing, switching, subnets, firewalls, DNS, DHCP — and applying them in practical labs.”<br><br>🐍 4. Python Developer With a Practical Mindset<br>“I use Python for automation, small tools, cloud scripts, and backend logic — keeping it clean, simple, and efficient.”<br><br>⚙️ 5. DevOps Explorer<br>“I’m learning CI/CD pipelines, GitHub actions, Docker basics, and how automation improves reliability and speed.”<br><br>🔐 6. Security-Aware Fresher<br>“Even as a fresher, I think about least privilege, secure configurations, and safe handling of data when building any system.”<br><br>📡 7. Build > Memorize Philosophy<br>“I believe learning happens when you execute — creating labs, deploying small apps, writing scripts, and doing hands-on experiments.”<br><br>📚 8. Strong Interest in Real-World Infrastructure<br>“I love understanding how companies run their cloud, networks, monitoring, alerts, automation, and backups.”<br><br>🧩 9. Turning Complex Concepts Into Simple Steps<br>“I break down cloud architectures and networking concepts into easy parts — making learning less overwhelming.”<br><br>🎨 10. Clean UI + Solid Backend Approach<br>“I enjoy building small tools with Tkinter/Flask/FastAPI and combining them with cloud storage or databases.”<br><br>📊 11. Data Awareness in My Projects<br>“I use SQL and Python together to analyze patterns, store logs, and build data-backed decisions.”<br><br>🤝 12. Open to Collaboration<br>“I love learning from others, sharing knowledge, and keeping my work transparent for improvements.”<br><br>🛠️ 13. Building Useful, Practical Projects<br>“My goal is to build tools that solve real problems — monitoring systems, cloud labs, automation scripts, and security utilities.”<br><br>🌱 14. Always Improving Myself<br>“I focus on small, consistent progress — one concept, one script, one improvement at a time.”<br><br>💼 15. Ownership & Responsibility<br>“I take responsibility for my work, help teammates, and stay calm and clear when solving problems.”<br><br>🌐 16. Open to Opportunities<br>“I’m actively learning and open to roles in Cloud, Networking, DevOps, and Python development.”
 
-<!--
-**ayishabegum-stack/ayishabegum-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ayishabegum) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:04ayishabegum@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ayishabegum-stack&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ayishabegum-stack&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayishabegum-stack&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=ayishabegum-stack&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
