@@ -1,6 +1,6 @@
-<h1 align="center"> Hi 👋🏻, This is Ayisha Begum </br> 
+<h1 align="center"> Hi 👋🏻, This is Ayisha Begum!! </br> 
 </h1>
-<p align="center">Im excited to explore new technologies⚡</p>
+<p align="center">I'm excited to explore new technologies⚡</p>
 <p align="center">“Good networks connect systems. Great engineers connect possibilities.”🚀</p> 
 <p align="center">
  <a href="https://itsvg.in" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
