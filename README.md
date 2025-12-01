@@ -15,13 +15,72 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ayishabegum) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:04ayishabegum@gmail.com) 
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white)
+#### Languages
+![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
+![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
+![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### Framework/Library
+![NumPy](https://img.shields.io/badge/-NumPy-000?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-000?style=for-the-badge&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-000?style=for-the-badge&logo=opencv&logoColor=white)
+
+#### Networking 
+![Networking](https://img.shields.io/badge/-Networking-000?style=for-the-badge&logo=network-wired&logoColor=white)
+![TCP/IP](https://img.shields.io/badge/-TCP%2FIP-000?style=for-the-badge&logo=network-wired&logoColor=white)
+![OSI Model](https://img.shields.io/badge/-OSI%20Model-000?style=for-the-badge&logo=network-wired&logoColor=white)
+![Routing & Switching](https://img.shields.io/badge/-Routing%20%26%20Switching-000?style=for-the-badge&logo=network-wired&logoColor=white)
+![Network Security](https://img.shields.io/badge/-Network%20Security-000?style=for-the-badge&logo=protonvpn&logoColor=white)
+
+#### Database
+![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### Cloud Technology 
+![VNet Peering](https://img.shields.io/badge/-VNet%20Peering-000?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Web Apps](https://img.shields.io/badge/-Azure%20Web%20Apps-000?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Containers](https://img.shields.io/badge/-Azure%20Containers-000?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-000?style=for-the-badge&logo=azuredevops&logoColor=white)
+![EC2](https://img.shields.io/badge/-AWS%20EC2-000?style=for-the-badge&logo=amazonaws&logoColor=white)
+![S3](https://img.shields.io/badge/-AWS%20S3-000?style=for-the-badge&logo=amazonaws&logoColor=white)
+![EBS](https://img.shields.io/badge/-AWS%20EBS-000?style=for-the-badge&logo=amazonaws&logoColor=white)
+![RDS](https://img.shields.io/badge/-AWS%20RDS-000?style=for-the-badge&logo=amazonaws&logoColor=white)
+![DMS](https://img.shields.io/badge/-AWS%20DMS-000?style=for-the-badge&logo=amazonaws&logoColor=white)
+![EFS](https://img.shields.io/badge/-AWS%20EFS-000?style=for-the-badge&logo=amazonaws&logoColor=white)
+![IAM](https://img.shields.io/badge/-AWS%20IAM-000?style=for-the-badge&logo=amazonaws&logoColor=white)
+![EventBridge](https://img.shields.io/badge/-AWS%20EventBridge-000?style=for-the-badge&logo=amazonaws&logoColor=white)
+![VPC Peering](https://img.shields.io/badge/-AWS%20VPC%20Peering-000?style=for-the-badge&logo=amazonaws&logoColor=white)
+![CI/CD](https://img.shields.io/badge/-AWS%20CI%2FCD-000?style=for-the-badge&logo=amazonaws&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/-AWS%20CloudWatch-000?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+
+#### Version Control
+![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
+
+#### Tools and software
+![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-000?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=docker&logoColor=white)
+![Python Automation](https://img.shields.io/badge/-Python%20Automation-000?style=for-the-badge&logo=python&logoColor=white)
+![PyCharm](https://img.shields.io/badge/-PyCharm-000?style=for-the-badge&logo=pycharm&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-000?style=for-the-badge&logo=visualstudio&logoColor=white)
+![MySQL Workbench](https://img.shields.io/badge/-MySQL%20Workbench-000?style=for-the-badge&logo=mysql&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-000?style=for-the-badge&logo=jupyter&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-000?style=for-the-badge&logo=jupyter&logoColor=white)
+![Packet Tracer](https://img.shields.io/badge/-Packet%20Tracer-000?style=for-the-badge&logo=cisco&logoColor=white)
+![PuTTY](https://img.shields.io/badge/-PuTTY-000?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![Cloud Shell](https://img.shields.io/badge/-Cloud%20Shell-000?style=for-the-badge&logo=googlecloud&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ayishabegum-stack&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ayishabegum-stack&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayishabegum-stack&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=ayishabegum-stack&icon=0&color=0)](https://visitcount.itsvg.in)
+# ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+### Thanks for Visiting my GitHub Profile!
+
+
+
+
